@@ -8,7 +8,8 @@
 <body>
     <h3>
         <?php
-        echo "bulan ini januari";
+        echo "al-fatihah
+        ";
         ?>
     </h3>
 </body>
