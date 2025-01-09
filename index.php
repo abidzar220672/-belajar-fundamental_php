@@ -8,8 +8,7 @@
 <body>
     <h3>
         <?php
-        echo "al-fatihah
-        ";
+        echo "al-fatihah   ";
         ?>
     </h3>
 </body>
