@@ -8,7 +8,7 @@
 <body>
     <h3>
         <?php
-        echo "surya angek banget";
+        echo "bulan ini januari";
         ?>
     </h3>
 </body>
